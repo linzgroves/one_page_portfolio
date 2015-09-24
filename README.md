@@ -1,5 +1,7 @@
 # one_page_portfolio
-One of the Front End Development Projects from Free Code Camp
+One of the Front End Development Projects from Free Code Camp. Check out how the code works here:
+
+http://codepen.io/linzgroves/pen/gabaxg
 
 Objectives:
 
