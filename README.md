@@ -12,7 +12,3 @@ User Story: As a user, I can click different buttons that will take me to the po
 User Story: As a user, I can see thumbnail images of different projects the portfolio creator has built (if you haven't built any websites before, use placeholders.)
 
 Bonus User Story: As a user, I navigate to different sections of the webpage by clicking buttons in the navigation.
-
-
-
-Current Issues: Putting the HTML/CSS/Bootstrap from CodePen onto GitHub didn't quite work....there are some issues with how the CSS and HTML are linking.
